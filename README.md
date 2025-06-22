@@ -2,6 +2,8 @@
 
 A starter template for building your own ChatGPT-like web application. This project provides the foundational structure and essential features to help you quickly launch an AI-powered chatbot interface.
 
+![Chatgpt UI Template](image.png)
+
 ## Features
 
 - Real-time chat interface with AI responses
@@ -16,8 +18,8 @@ To get started with this project:
 
 1. **Clone the repository**  
     ```bash
-    git clone https://github.com/your-username/chatgpt-clone.git
-    cd chatgpt-clone
+    git clone https://github.com/akashchaudhary-git/chatgpt-nextjs-template.git
+    cd chatgpt-nextjs-template
     ```
 
 2. **Install dependencies**  
